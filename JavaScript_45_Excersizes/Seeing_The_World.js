@@ -1,0 +1,10 @@
+const Places = ["Paris", "America", "Canada", "Dubai", "Japan"]
+console.log(Places)
+console.log(Places.slice().sort())
+console.log(Places.slice().sort().reverse())
+console.log(Places)
+console.log(Places.slice().reverse())
+console.log(Places.slice().reverse())
+console.log(Places)
+console.log(Places.sort())
+console.log(Places.sort().reverse())
