@@ -1,1 +1,0 @@
-Npx Command: npx calculator_moosaafzal
