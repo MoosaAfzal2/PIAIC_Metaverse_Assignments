@@ -1,0 +1,1 @@
+Npx Command: npx moosaafzal_bank

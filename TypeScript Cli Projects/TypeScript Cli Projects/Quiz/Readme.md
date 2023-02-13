@@ -1,0 +1,1 @@
+Npx Command: npx quizz_moosaafzal
